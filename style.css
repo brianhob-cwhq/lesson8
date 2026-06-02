@@ -5,5 +5,14 @@ img{
 }
 
 body{
+    font-family: 'Patrick Hand', cursive;
     background-color:beige;
+    text-align: center;
+    color: #ffffff;
+}
+
+#title{
+    font-family: 'Sour Gummy', cursive;
+    color: #ffc1fc;
+    text-align: center;
 }
